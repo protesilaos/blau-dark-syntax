@@ -8,9 +8,7 @@
     "theme",
     "blue",
     "red",
-    "fcb",
-    "barcelona",
-    "blaugrana"
+    "barcelona"
   ],
   "repository": "https://github.com/protesilaos/blau-dark-syntax",
   "license": "MIT",
